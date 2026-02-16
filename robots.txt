@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://seodaemungu.8222quick.com/sitemap.xml
+
+
+
